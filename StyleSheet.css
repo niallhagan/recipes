@@ -6,6 +6,10 @@ h2 {
     color: blue;
 }
 
+td {
+    vertical-align: top
+}
+
 /* Style the description */
 description {
     background-color: #666;
